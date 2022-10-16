@@ -18,7 +18,7 @@ I am 24 years old. Student of magistracy in Cybersecurity in National Research U
 *   ICS security
 
 ## 🛠 Technical Stack
-*   Python language (Object Oriented Programming studing now)
+*   Python language 
 *   MySQL
 *   GitHub
 *   Linux, Windows
